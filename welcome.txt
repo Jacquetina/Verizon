@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Git practice session:
 
 1. new edit
+Git practice session.:
+1. this is from dev file
+
